@@ -8,7 +8,7 @@
 My name is Manish Acharya, just a normal boy fighting for his dreams. Talking about my interest, I would like my career to revolve around computer programming. I have always loved to be in the world of programming and just explore it. I have learnt web-designing and development and few other other programming languages with all my enthusiasm. I also love reading sci-fi books and watching movies. They have always interest me. Other than programming stuffs, I absolutely love writing articles, it brings me happiness. I have always been appriciated for it and I am grateful for all the appreciation I recieve. This is all about me!
 #
 
- 📖You can read my articles ['here'](https://blog.herokuapp.com/)
+ 📖You can read my articles ['here'](https://blog.manish60.com.np/)
 
 #
  👨‍💻I'm the employee at Gurzu Inc
